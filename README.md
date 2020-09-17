@@ -1,7 +1,5 @@
 # PowerChain - Subgraph
-Decentralized Energy Generation
-
-#### Still a work in progress. Feel free to contribute!
+Decentralized Energy Generation - Still a work in progress. Feel free to contribute!
 
 
 #### DESCRIPTION
