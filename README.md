@@ -1,4 +1,4 @@
-# powerchain-subgraph
+# PowerChain - Subgraph
 Decentralized Energy Generation
 
 
